@@ -1,0 +1,18 @@
+---
+title: "People"
+---
+
+::: {.person}
+![](images/trott.jpeg){.rounded-circle}
+
+::: {.person-info}
+**Sean Trott**  
+*Assistant Professor, PI*
+
+Sean is an Assistant Professor of Psychology at Rutgers University and the director of the Language, Cognition, and Computation Lab. He got his PhD from [UC San Diego in Cognitive Science](https://cogsci.ucsd.edu/) in 2022.
+
+[Website](https://seantrott.github.io/)
+:::
+:::
+
+*Interested in joining the lab? Check out the [Join](join.qmd) page.*

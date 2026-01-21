@@ -5,6 +5,7 @@ project:
 website:
   title: "Language, Cognition, and Computation Lab"
   navbar:
+    logo: images/logo.png
     left:
       - text: "Home"
         href: index.qmd
@@ -12,10 +13,10 @@ website:
         href: research.qmd
       # - text: "Publications"
       #   href: publications.qmd
-      # - text: "People"
-      #   href: people.qmd
-      # - text: "Join"
-      #  href: join.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Join"
+        href: join.qmd
 
 format:
   html:

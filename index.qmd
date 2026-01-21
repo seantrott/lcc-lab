@@ -1,0 +1,19 @@
+---
+title: "Language, Cognition, and Computation Lab"
+---
+
+The **Language, Cognition, and Computation (LCC) Lab** is a research group in the [Department of Psychology](https://sasn.rutgers.edu/academics-admissions/academic-departments/psychology) at [Rutgers University–Newark](https://www.newark.rutgers.edu/), directed by [Sean Trott](https://seantrott.github.io/). We investigate research questions at the intersection of **Psychology** and **AI** (see our [research page](research.qmd) for more). 
+
+
+## News
+
+- **January 2026**: The LCC Lab officially launches at Rutgers University–Newark!
+
+
+## Contact
+
+**Sean Trott**  
+Assistant Professor, Department of Psychology  
+Rutgers University–Newark  
+Email: [sean.trott@rutgers.edu](mailto:sean.trott@rutgers.edu)
+

@@ -1,4 +1,4 @@
-/* Research theme boxes - different style from Cameron's */
+/* Research theme boxes  */
 .research-section {
   background: white;
   border: 2px solid #e2e8f0;
@@ -93,4 +93,33 @@ a {
 a:hover {
   text-decoration: underline;
   color: #1a365d;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  align-items: start;
+}
+
+.person img.rounded-circle {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.person p {
+  margin: 0.25rem 0;
+}
+
+.navbar-brand img {
+  max-height: 80px;
+  width: auto;
+}
+
+.navbar {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }

@@ -2,16 +2,19 @@
 title: "Research"
 ---
 
-The Language, Cognition, and Computation Lab uses large language models as "model organisms" to study human cognition. We combine methods from cognitive science, linguistics, and AI to understand how meaning is represented and processed—in both minds and machines.
+The Language, Cognition, and Computation (LCC) Lab investigates research questions at the intersection of Psychology and AI. We use tools like large language models (LLMs) as "model organisms" to study human cognition; in turn, we apply theories and methods from Psychology to better understand how LLMs work under the hood. 
+
+A (non-exhaustive) sample of ongoing research programs is listed below. 
 
 
 ::: {.research-section}
 ::: {.section-header}
-### Theory of Mind in Language Models
-Do LLMs represent mental states, or just predict text?
+### Mental state reasoning in humans and language models
+
+What can we learn by comparing the behavior of humans and language models on mental state reasoning tasks?
 :::
 
-We investigate whether and how language models develop theory of mind capabilities through false belief tasks, activation patching experiments, and analysis of attention patterns during social reasoning. Our work examines multiple open-weight models to understand the mechanisms underlying apparent mental state reasoning and whether these systems implement human-like representations or alternative computational strategies.
+Humans regularly reason about the belief states of others. But how do we acquire this capacity? One hypothesis is that it emerges in part from *exposure to language*. We use LLMs trained on the distributional statistics of language to ask whether, when, and why sensitivity to belief states reliably emerges from this training protocol. We also investigate the *developmental trajectory* and *mechanistic underpinnings* of this behavior in LLMs to better understand the phenomenon in both LLMs and humans.
 
 **Selected papers:**
 
@@ -22,32 +25,78 @@ We investigate whether and how language models develop theory of mind capabiliti
 
 ::: {.research-section}
 ::: {.section-header}
-### Lexical Ambiguity and Meaning Representation
+### Representation and processing of lexical ambiguity
+
 How do humans and language models represent the multiple meanings of ambiguous words?
 :::
 
-The prevalence of lexical ambiguity raises the question of how human minds (and LLMs) process and represent the meanings of ambiguous words.
+Most words are *ambiguous*, i.e., they mean different things in different contexts. Ambiguity raises a challenge for comprehension, but it's also an opportunity for research: it provides a *window* into the representations and mechanisms underlying the contextualization of meaning. In humans, our work focuses on the *format* of meaning representations (e.g., are they discrete or continuous?). In language models, we focus on the *internal mechanisms* responsible for disambiguation (e.g., specific attention heads). 
 
-Traditionally, words and their meanings as conceived as discrete entries in a mental dictionary. But meaning is often dynamically modulated in different contexts. I’ve been using LLMs to explore an alternative account, in which word meanings are viewed as attractors in a continuous state-space, and then asking whether there is evidence for category boundaries atop this continuous space.
+
 
 **Selected papers:**
 
-- Rivière, P., & Trott, S. (To appear). Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity. *TACL.*
-- Rivière, P. D., Beatty-Martínez, A. L., & Trott, S. (2025, April). Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis. In *Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 8322-8338)*. [[Link to paper]](https://aclanthology.org/2025.naacl-long.422/) [[Link to GitHub code]](https://github.com/seantrott/spanish_norms) [[Link to HuggingFace dataset]](https://huggingface.co/datasets/seantrott/sawc)
-- Trott, S., & Bergen, B. (2023). Word meaning is both categorical and continuous. *Psychological Review.* [[Link]](https://www.researchgate.net/profile/Sean-Trott/publication/369116867_Word_meaning_is_both_categorical_and_continuous/links/656dfb46a760eb7cc748b026/Word-Meaning-Is-Both-Categorical-and-Continuous.pdf)
-- Trott, S., & Bergen, B. (2021). RAW-C: Relatedness of Ambiguous Words, in Context (A New Lexical Resource for English). *ACL-IJCNLP-2021.* [[Link to paper]](https://aclanthology.org/2021.acl-long.550/) [[Link to dataset and code]](https://github.com/seantrott/raw-c)[[Link to HuggingFace dataset]](https://huggingface.co/datasets/seantrott/rawc)
+- Rivière, P., & Trott, S. (2026). Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity. *Transactions of the Association for Computational Linguistics.* [[Link]](https://arxiv.org/abs/2511.21974) [[Code and data]](https://github.com/seantrott/entangled_meanings)
+- Rivière, P. D., Beatty-Martínez, A. L., & Trott, S. (2025, April). Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis. In *Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 8322-8338)*. [[Link]](https://aclanthology.org/2025.naacl-long.422/) [[Code]](https://github.com/seantrott/spanish_norms) [[HuggingFace dataset]](https://huggingface.co/datasets/seantrott/sawc)
+- Trott, S., & Bergen, B. (2023). Word meaning is both categorical and continuous. *Psychological Review, 130(5), 1239*. [[Link]](https://www.researchgate.net/profile/Sean-Trott/publication/369116867_Word_meaning_is_both_categorical_and_continuous/links/656dfb46a760eb7cc748b026/Word-Meaning-Is-Both-Categorical-and-Continuous.pdf) [[Code and data]](https://github.com/seantrott/trott_ph_amb)
+- Trott, S., & Bergen, B. (2021, August). RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English). In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 7077-7087).* [[Link]](https://aclanthology.org/2021.acl-long.550/) [[Dataset and code]](https://github.com/seantrott/raw-c)[[HuggingFace dataset]](https://huggingface.co/datasets/seantrott/rawc)
 
 
 :::
 
+::: {.research-section}
+::: {.section-header}
+### Epistemological foundations of "LLM-ology"
+
+Can we develop a systematic, generalizable science of LLMs?
+:::
+
+The use of LLMs in Cognitive Science research is relatively novel, as is the scientific study of LLMs themselves ("LLM-ology"). This raises a number of [*epistemological challenges*](https://seantrott.substack.com/p/llm-ology-the-challenges-ahead): 
+
+- Challenges of *measurement*: does the same test "mean the same thing" when applied to humans and LLMs, or does it exhibit *differential construct validity*? What is the *functional scope* of a particular mechanism? 
+- Challenges of *generalizability*: what does research on a particular LLM tell us about LLMs more broadly? And in what sense are LLMs "model organisms" for research on human cognition?
+- Challenges of *ontology*: what "kind of thing" is an LLM in the first place and what conceptual frameworks are most useful for understanding these systems? 
+
+**Selected papers:**
+
+- Trott, S. Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research. In Mechanistic Interpretability Workshop at NeurIPS 2025. [[Link]](https://arxiv.org/abs/2509.22831) [[Code and data]](https://github.com/seantrott/mechinterp_generalizability) 
+- Trott, S. (2024). Large language models and the wisdom of small crowds. Open Mind, 8, 723-738. [[Link]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00144/121179) [[Code and data]](https://github.com/seantrott/llm_clt/)
+- Trott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? *Cognitive Science.* [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13309)
+:::
 
 
-Other topics:
 
-- sensorimotor grounding 
-- epistemology --> both for LLM-ology and for LLMs as model organisms (distributional baselines, generalizability, construct validity, and epistemic iteration)
-- ToM (modify)
-- situation models / representations more generally
+::: {.research-section}
+::: {.section-header}
+### Embodiment and conceptual knowledge
+
+How is conceptual knowledge shaped by *sensorimotor* and *linguistic* experience?
+:::
+
+Humans have bodies and move through space. What role do these *perceptual* and *motor* experiences play in shaping our conceptual representations? And how do these experiences interact with our knowledge of the symbolic, categorical nature of human language? We use neural networks trained on various *input modalities* (e.g., *vision models*, *language models*, and *vision-language models*) to ask which best accounts for human conceptual knowledge. 
+
+**Selected papers:**
+
+- Rivière, P. D., Parkinson-Coombs, O., Jones, C., & Trott, S. (2025, July). Does Language Stabilize Quantity Representations in Vision Transformers? In (Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47, No. 47)*. [[Link]](https://escholarship.org/uc/item/8f03g251)
+- Jones, C. R., Bergen, B., & Trott, S. (2024). Do multimodal large language models and humans ground language similarly?. Computational Linguistics, 50(4), 1415-1440. [[Link]](https://direct.mit.edu/coli/article/50/4/1415/123786) 
+- Trott, S., & Bergen, B. (2022). Contextualized sensorimotor norms: Multi-dimensional measures of sensorimotor strength for ambiguous English words, in context. [[Link]](https://arxiv.org/abs/2203.05648)
+
+:::
+
+::: {.research-section}
+::: {.section-header}
+### Calibration and trust
+
+What kinds of *mental models* do individuals have about the capabilities and limitations of AI tools, and how we can encourage *appropriate calibration*?
+:::
+
+AI tools like LLMs display seemingly remarkable abilities---but also, in some cases, surprising and inexplicable failures. This makes [calibrating our expectations](https://seantrott.substack.com/p/calibrating-expectations) of what these systems can and can't do very difficult. We study potential *use cases* of LLMs (e.g., in scientific research) as well as the [*metaphors* and *mental models*](https://seantrott.substack.com/p/what-we-talk-about-when-we-talk-about) individuals form from observing the behavior of LLMs.
+
+**Selected papers:**
+
+- Trott, S. (2024). Can large language models help augment English psycholinguistic datasets?. *Behavior Research Methods*, 56(6), 6082-6100. [[Link]](https://link.springer.com/article/10.3758/s13428-024-02337-z) [[Code and data]](https://github.com/seantrott/llm_norms)
+:::
+
 
 
 :::
