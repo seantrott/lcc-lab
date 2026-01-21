@@ -1,0 +1,96 @@
+/* Research theme boxes - different style from Cameron's */
+.research-section {
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.research-section:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.section-header {
+  margin-bottom: 1.25rem;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.75rem;
+}
+
+.section-header h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1a365d;
+}
+
+.section-header h3 + p {
+  margin: 0;
+  font-size: 1.05rem;
+  color: #718096;
+  font-style: italic;
+}
+
+.research-section > p {
+  margin-bottom: 1.25rem;
+  line-height: 1.7;
+  color: #2d3748;
+}
+
+/* Paper lists */
+.research-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.75rem 0 0 0;
+}
+
+.research-section ul li {
+  margin-bottom: 0.85rem;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.research-section ul li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: #2c5282;
+  font-weight: bold;
+}
+
+/* Strong tags for "Selected papers:" etc */
+.research-section strong {
+  color: #1a365d;
+  font-weight: 600;
+}
+
+/* General page styling */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  color: #2d3748;
+  background: #f7fafc;
+}
+
+h1 {
+  color: #1a365d;
+  margin-bottom: 1.5rem;
+  font-size: 2.5rem;
+}
+
+/* Links */
+a {
+  color: #2c5282;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1a365d;
+}
