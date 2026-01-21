@@ -1,0 +1,255 @@
+---
+title: "Selected Publications"
+---
+
+A representative list of publications (see the [research page](research.qmd) for more details).
+
+## 2026
+
+::: {.pub-entry}
+## [Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity](https://arxiv.org/abs/2511.21974)
+
+Rivière, P. & Trott, S.
+
+[TACL]{.venue} 2026
+:::
+
+## 2025
+
+::: {.pub-entry}
+## [Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models](https://aclanthology.org/2025.emnlp-main.1806/)
+
+He, Z., Trott, S., & Khosla, M.
+
+[EMNLP]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Do Prosodic Cues Convey Intent Directly or Through Contrastive Marking? A Study of French Indirect Requests](https://escholarship.org/uc/item/5q52m9g5)
+
+Ruytenbeek, N. & Trott, S.
+
+[Glossa Psycholinguistics]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Words and Worlds Both: Dynamic Effects of Distributional and Sensorimotor Information in Semantic Processing](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.316/134721/Words-and-Worlds-Both-Dynamic-Effects-of)
+
+Vinaya, H., Trott, S., Pecher, D., Zeelenberg, R., & Coulson, S.
+
+[Open Mind]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Turing Jest: Distributional Semantics and One-Line Jokes](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70066)
+
+Trott, S., Walker, D. E., Taylor, S. M., & Coulson, S.
+
+[Cognitive Science]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy](https://dl.acm.org/doi/full/10.1145/3707649)
+
+Schoenegger, P., Park, P. S., Karger, E., Trott, S., & Tetlock, P. E.
+
+[ACM TiiS]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis](https://aclanthology.org/2025.naacl-long.422/)
+
+Rivière, P. D., Beatty-Martínez, A. L., & Trott, S.
+
+[NAACL]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Does Language Stabilize Quantity Representations in Vision Transformers?](https://escholarship.org/uc/item/8f03g251)
+
+Rivière, P. D., Parkinson-Coombs, O., Jones, C., & Trott, S.
+
+[CogSci]{.venue} 2025
+:::
+
+::: {.pub-entry}
+## [Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research](https://arxiv.org/abs/2509.22831)
+
+Trott, S.
+
+[NeurIPS MechInterp Workshop]{.venue} 2025
+:::
+
+## 2024
+
+::: {.pub-entry}
+## [Do Multimodal Large Language Models and Humans Ground Language Similarly?](https://direct.mit.edu/coli/article/50/4/1415/123786)
+
+Jones, C. R., Bergen, B., & Trott, S.
+
+[Computational Linguistics]{.venue} 2024
+:::
+
+::: {.pub-entry}
+## [Comparing Humans and Large Language Models on EPITOME](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00674/122721)
+
+Jones, C. R., Trott, S., & Bergen, B.
+
+[TACL]{.venue} 2024
+:::
+
+::: {.pub-entry}
+## [Large Language Models and the Wisdom of Small Crowds](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00144/121179)
+
+Trott, S.
+
+[Open Mind]{.venue} 2024
+:::
+
+::: {.pub-entry}
+## [Can Large Language Models Help Augment English Psycholinguistic Datasets?](https://link.springer.com/article/10.3758/s13428-024-02337-z)
+
+Trott, S.
+
+[Behavior Research Methods]{.venue} 2024
+:::
+
+
+::: {.pub-entry}
+## [Multimodal Large Language Models Show Evidence of Embodied Simulation](https://aclanthology.org/2024.lrec-main.1041/)
+
+Jones, C. & Trott, S.
+
+[LREC-COLING]{.venue} 2024
+:::
+
+## 2023
+
+::: {.pub-entry}
+## [Word Meaning is Both Categorical and Continuous](https://pubmed.ncbi.nlm.nih.gov/36892900/)
+
+Trott, S. & Bergen, B.
+
+[Psychological Review]{.venue} 2023
+:::
+
+::: {.pub-entry}
+## [Do Large Language Models Know What Humans Know?](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13309)
+
+Trott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B.
+
+[Cognitive Science]{.venue} 2023
+:::
+
+::: {.pub-entry}
+## [Prosody and Speech Act Interpretation: The Case of French Indirect Requests](https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/prosody-and-speech-act-interpretation-the-case-of-french-indirect-requests/A1E2ED7D37D4F1D29235493EAF000E64)
+
+Ruytenbeek, N., Bergen, B., & Trott, S.
+
+[Journal of French Language Studies]{.venue} 2023
+:::
+
+## 2022
+
+::: {.pub-entry}
+## [Offline Dominance and Zeugmatic Similarity Normings of Variably Ambiguous Words Assessed Against a Neural Language Model (BERT)](https://link.springer.com/article/10.3758/s13428-022-01869-6)
+
+DeLong, K., Trott, S., & Kutas, M.
+
+[Behavior Research Methods]{.venue} 2022
+:::
+
+::: {.pub-entry}
+## [Spontaneous, Controlled Acts of Reference Between Friends and Strangers](https://link.springer.com/article/10.1007/s10579-022-09619-y)
+
+Trott, S., Bergen, B., & Wittenberg, E.
+
+[Language Resources and Evaluation]{.venue} 2022
+:::
+
+::: {.pub-entry}
+## [The Role of Prosody in Disambiguating English Indirect Requests](https://journals.sagepub.com/doi/10.1177/00238309221087715)
+
+Trott, S., Reed, S., Kaliblotzky, D., Ferreira, V., & Bergen, B.
+
+[Language and Speech]{.venue} 2022
+:::
+
+::: {.pub-entry}
+## [Languages are Efficient, But for Whom?](https://www.sciencedirect.com/science/article/abs/pii/S0010027722000828)
+
+Trott, S. & Bergen, B.
+
+[Cognition]{.venue} 2022
+:::
+
+::: {.pub-entry}
+## [Distributional Semantics Still Can't Account for Affordances](https://pages.ucsd.edu/~bkbergen/papers/cogsci_2022_nlm_affordances_final.pdf)
+
+Jones, C. R., Chang, T. A., Coulson, S., Michaelov, J. A., Trott, S., & Bergen, B.
+
+[CogSci]{.venue} 2022
+:::
+
+::: {.pub-entry}
+## [Can a Pressure Against Homophones Explain Phonological Neighborhoods?](https://escholarship.org/uc/item/73x9j3dd)
+
+Trott, S. & Bergen, B.
+
+[CogSci]{.venue} 2022
+:::
+
+## 2021
+
+::: {.pub-entry}
+## [RAW-C: Relatedness of Ambiguous Words in Context](https://aclanthology.org/2021.acl-long.550/)
+
+Trott, S. & Bergen, B.
+
+[ACL]{.venue} 2021
+:::
+
+## 2020
+
+::: {.pub-entry}
+## [(Re)construing Meaning in NLP](https://aclanthology.org/2020.acl-main.462/)
+
+Trott, S., Torrent, T. T., Chang, N., & Schneider, N.
+
+[ACL]{.venue} 2020
+:::
+
+::: {.pub-entry}
+## [Why Do Human Languages Have Homophones?](https://www.sciencedirect.com/science/article/pii/S0010027720302687?casa_token=ag_UsUmoNIUAAAAA:JH0WgkE9aJxTBocH_LYOik_2l5WmrLJVFn7KfhatE4UPT_XUKecW2hbk9taKm0c9cAA60X3GGQ)
+
+Trott, S. & Bergen, B.
+
+[Cognition]{.venue} 2020
+:::
+
+::: {.pub-entry}
+## [When Do Comprehenders Mentalize for Pragmatic Inference?](https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1822709)
+
+Trott, S. & Bergen, B.
+
+[Discourse Processes]{.venue} 2020
+:::
+
+::: {.pub-entry}
+## [The Role of Entitlement in Formatting Preferences Across Requesters and Recipients](https://www.tandfonline.com/doi/abs/10.1080/0163853X.2020.1719796)
+
+Trott, S. & Rossano, F.
+
+[Discourse Processes]{.venue} 2020
+:::
+
+
+## 2018
+
+::: {.pub-entry}
+## [Individual Differences in Mentalizing Capacity Predict Indirect Request Comprehension](https://www.tandfonline.com/doi/full/10.1080/0163853X.2018.1548219)
+
+Trott, S. & Bergen, B.
+
+[Discourse Processes]{.venue} 2018
+:::
