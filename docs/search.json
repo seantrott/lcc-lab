@@ -7,6 +7,34 @@
     "text": "Sean Trott\nAssistant Professor, PI\nSean is an Assistant Professor of Psychology at Rutgers University and the director of the Language, Cognition, and Computation Lab. He got his PhD from UC San Diego in Cognitive Science in 2022.\nWebsite\n\n\nInterested in joining the lab? Check out the Join page."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Language, Cognition, and Computation Lab",
+    "section": "",
+    "text": "The Language, Cognition, and Computation (LCC) Lab is a research group in the Department of Psychology at Rutgers University–Newark, directed by Sean Trott. We investigate research questions at the intersection of Psychology and AI (see our research page for more)."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Language, Cognition, and Computation Lab",
+    "section": "News",
+    "text": "News\n\nJanuary 2026: The LCC Lab officially launches at Rutgers University–Newark!"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Language, Cognition, and Computation Lab",
+    "section": "Contact",
+    "text": "Contact\nSean Trott\nAssistant Professor, Department of Psychology\nRutgers University–Newark\nEmail: sean.trott@rutgers.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Language, Cognition, and Computation (LCC) Lab investigates research questions at the intersection of Psychology and AI. We use tools like large language models (LLMs) as “model organisms” to study human cognition; in turn, we apply theories and methods from Psychology to better understand how LLMs work under the hood.\nA (non-exhaustive) sample of ongoing research programs is listed below.\nResearch areas: Mental state reasoning · Lexical ambiguity · Epistemology · Embodiment · Calibration and trust\n\n\nMental state reasoning in humans and language models\nWhat can we learn by comparing the behavior of humans and language models on mental state reasoning tasks?\n\nHumans regularly reason about the belief states of others. But how do we acquire this capacity? One hypothesis is that it emerges in part from exposure to language. We use LLMs trained on the distributional statistics of language to ask whether, when, and why sensitivity to belief states reliably emerges from this training protocol. We also investigate the developmental trajectory and mechanistic underpinnings of this behavior in LLMs to better understand the phenomenon in both LLMs and humans.\nSelected papers:\n\nTrott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? Cognitive Science. [Link]\nJones, C. R., Trott, S., & Bergen, B. (2024). Comparing Humans and Large Language Models on EPITOME. Transactions of the Association for Computational Linguistics, 12, 803-819. [Link]\n\n\n\n\nRepresentation and processing of lexical ambiguity\nHow do humans and language models represent the multiple meanings of ambiguous words?\n\nMost words are ambiguous, i.e., they mean different things in different contexts. Ambiguity raises a challenge for comprehension, but it’s also an opportunity for research: it provides a window into the representations and mechanisms underlying the contextualization of meaning. In humans, our work focuses on the format of meaning representations (e.g., are they discrete or continuous?). In language models, we focus on the internal mechanisms responsible for disambiguation (e.g., specific attention heads).\nSelected papers:\n\nRivière, P., & Trott, S. (2026). Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity. Transactions of the Association for Computational Linguistics. [Link] [Code and data]\nRivière, P. D., Beatty-Martínez, A. L., & Trott, S. (2025, April). Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 8322-8338). [Link] [Code] [HuggingFace dataset]\nTrott, S., & Bergen, B. (2023). Word meaning is both categorical and continuous. Psychological Review, 130(5), 1239. [Link] [Code and data]\nTrott, S., & Bergen, B. (2021, August). RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 7077-7087). [Link] [Dataset and code][HuggingFace dataset]\n\n\n\n\nEpistemological foundations of “LLM-ology”\nCan we develop a systematic, generalizable science of LLMs?\n\nThe use of LLMs in Cognitive Science research is relatively novel, as is the scientific study of LLMs themselves (“LLM-ology”). This raises a number of epistemological challenges:\n\nChallenges of measurement: does the same test “mean the same thing” when applied to humans and LLMs, or does it exhibit differential construct validity? What is the functional scope of a particular mechanism?\nChallenges of generalizability: what does research on a particular LLM tell us about LLMs more broadly? And in what sense are LLMs “model organisms” for research on human cognition?\nChallenges of ontology: what “kind of thing” is an LLM in the first place and what conceptual frameworks are most useful for understanding these systems?\n\nSelected papers:\n\nTrott, S. Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research. In Mechanistic Interpretability Workshop at NeurIPS 2025. [Link] [Code and data]\nTrott, S. (2024). Large language models and the wisdom of small crowds. Open Mind, 8, 723-738. [Link] [Code and data]\nTrott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? Cognitive Science. [Link]\n\n\n\n\nEmbodiment and conceptual knowledge\nHow is conceptual knowledge shaped by sensorimotor and linguistic experience?\n\nHumans have bodies and move through space. What role do these perceptual and motor experiences play in shaping our conceptual representations? And how do these experiences interact with our knowledge of the symbolic, categorical nature of human language? We use neural networks trained on various input modalities (e.g., vision models, language models, and vision-language models) to ask which best accounts for human conceptual knowledge.\nSelected papers:\n\nRivière, P. D., Parkinson-Coombs, O., Jones, C., & Trott, S. (2025, July). Does Language Stabilize Quantity Representations in Vision Transformers? In (Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47, No. 47)*. [Link]\nJones, C. R., Bergen, B., & Trott, S. (2024). Do multimodal large language models and humans ground language similarly?. Computational Linguistics, 50(4), 1415-1440. [Link]\nTrott, S., & Bergen, B. (2022). Contextualized sensorimotor norms: Multi-dimensional measures of sensorimotor strength for ambiguous English words, in context. [Link]\n\n\n\n\nCalibration and trust\nWhat kinds of mental models do individuals have about the capabilities and limitations of AI tools, and how we can encourage appropriate calibration?\n\nAI tools like LLMs display seemingly remarkable abilities—but also, in some cases, surprising and inexplicable failures. This makes calibrating our expectations of what these systems can and can’t do very difficult. We study potential use cases of LLMs (e.g., in scientific research) as well as the metaphors and mental models individuals form from observing the behavior of LLMs.\nSelected papers:\n\nTrott, S. (2024). Can large language models help augment English psycholinguistic datasets?. Behavior Research Methods, 56(6), 6082-6100. [Link] [Code and data]"
+  },
+  {
     "objectID": "join.html",
     "href": "join.html",
     "title": "Join the Lab",
@@ -35,31 +63,269 @@
     "text": "Contact\nSean Trott: sean.trott@rutgers.edu"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
     "section": "",
-    "text": "The Language, Cognition, and Computation (LCC) Lab investigates research questions at the intersection of Psychology and AI. We use tools like large language models (LLMs) as “model organisms” to study human cognition; in turn, we apply theories and methods from Psychology to better understand how LLMs work under the hood.\nA (non-exhaustive) sample of ongoing research programs is listed below.\nResearch areas: Mental state reasoning · Lexical ambiguity · Epistemology · Embodiment · Calibration and trust\n\n\nMental state reasoning in humans and language models\nWhat can we learn by comparing the behavior of humans and language models on mental state reasoning tasks?\n\nHumans regularly reason about the belief states of others. But how do we acquire this capacity? One hypothesis is that it emerges in part from exposure to language. We use LLMs trained on the distributional statistics of language to ask whether, when, and why sensitivity to belief states reliably emerges from this training protocol. We also investigate the developmental trajectory and mechanistic underpinnings of this behavior in LLMs to better understand the phenomenon in both LLMs and humans.\nSelected papers:\n\nTrott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? Cognitive Science. [Link]\nJones, C. R., Trott, S., & Bergen, B. (2024). Comparing Humans and Large Language Models on EPITOME. Transactions of the Association for Computational Linguistics, 12, 803-819. [Link]\n\n\n\n\nRepresentation and processing of lexical ambiguity\nHow do humans and language models represent the multiple meanings of ambiguous words?\n\nMost words are ambiguous, i.e., they mean different things in different contexts. Ambiguity raises a challenge for comprehension, but it’s also an opportunity for research: it provides a window into the representations and mechanisms underlying the contextualization of meaning. In humans, our work focuses on the format of meaning representations (e.g., are they discrete or continuous?). In language models, we focus on the internal mechanisms responsible for disambiguation (e.g., specific attention heads).\nSelected papers:\n\nRivière, P., & Trott, S. (2026). Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity. Transactions of the Association for Computational Linguistics. [Link] [Code and data]\nRivière, P. D., Beatty-Martínez, A. L., & Trott, S. (2025, April). Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 8322-8338). [Link] [Code] [HuggingFace dataset]\nTrott, S., & Bergen, B. (2023). Word meaning is both categorical and continuous. Psychological Review, 130(5), 1239. [Link] [Code and data]\nTrott, S., & Bergen, B. (2021, August). RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 7077-7087). [Link] [Dataset and code][HuggingFace dataset]\n\n\n\n\nEpistemological foundations of “LLM-ology”\nCan we develop a systematic, generalizable science of LLMs?\n\nThe use of LLMs in Cognitive Science research is relatively novel, as is the scientific study of LLMs themselves (“LLM-ology”). This raises a number of epistemological challenges:\n\nChallenges of measurement: does the same test “mean the same thing” when applied to humans and LLMs, or does it exhibit differential construct validity? What is the functional scope of a particular mechanism?\nChallenges of generalizability: what does research on a particular LLM tell us about LLMs more broadly? And in what sense are LLMs “model organisms” for research on human cognition?\nChallenges of ontology: what “kind of thing” is an LLM in the first place and what conceptual frameworks are most useful for understanding these systems?\n\nSelected papers:\n\nTrott, S. Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research. In Mechanistic Interpretability Workshop at NeurIPS 2025. [Link] [Code and data]\nTrott, S. (2024). Large language models and the wisdom of small crowds. Open Mind, 8, 723-738. [Link] [Code and data]\nTrott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? Cognitive Science. [Link]\n\n\n\n\nEmbodiment and conceptual knowledge\nHow is conceptual knowledge shaped by sensorimotor and linguistic experience?\n\nHumans have bodies and move through space. What role do these perceptual and motor experiences play in shaping our conceptual representations? And how do these experiences interact with our knowledge of the symbolic, categorical nature of human language? We use neural networks trained on various input modalities (e.g., vision models, language models, and vision-language models) to ask which best accounts for human conceptual knowledge.\nSelected papers:\n\nRivière, P. D., Parkinson-Coombs, O., Jones, C., & Trott, S. (2025, July). Does Language Stabilize Quantity Representations in Vision Transformers? In (Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47, No. 47)*. [Link]\nJones, C. R., Bergen, B., & Trott, S. (2024). Do multimodal large language models and humans ground language similarly?. Computational Linguistics, 50(4), 1415-1440. [Link]\nTrott, S., & Bergen, B. (2022). Contextualized sensorimotor norms: Multi-dimensional measures of sensorimotor strength for ambiguous English words, in context. [Link]\n\n\n\n\nCalibration and trust\nWhat kinds of mental models do individuals have about the capabilities and limitations of AI tools, and how we can encourage appropriate calibration?\n\nAI tools like LLMs display seemingly remarkable abilities—but also, in some cases, surprising and inexplicable failures. This makes calibrating our expectations of what these systems can and can’t do very difficult. We study potential use cases of LLMs (e.g., in scientific research) as well as the metaphors and mental models individuals form from observing the behavior of LLMs.\nSelected papers:\n\nTrott, S. (2024). Can large language models help augment English psycholinguistic datasets?. Behavior Research Methods, 56(6), 6082-6100. [Link] [Code and data]"
+    "text": "A representative list of publications (see the research page for more details)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Language, Cognition, and Computation Lab",
-    "section": "",
-    "text": "The Language, Cognition, and Computation (LCC) Lab is a research group in the Department of Psychology at Rutgers University–Newark, directed by Sean Trott. We investigate research questions at the intersection of Psychology and AI (see our research page for more)."
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Selected Publications",
+    "section": "2026",
+    "text": "2026"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Language, Cognition, and Computation Lab",
-    "section": "News",
-    "text": "News\n\nJanuary 2026: The LCC Lab officially launches at Rutgers University–Newark!"
+    "objectID": "publications.html#start-making-senses-a-developmental-probe-of-attention-specialization-using-lexical-ambiguity",
+    "href": "publications.html#start-making-senses-a-developmental-probe-of-attention-specialization-using-lexical-ambiguity",
+    "title": "Selected Publications",
+    "section": "Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity",
+    "text": "Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity\nRivière, P. & Trott, S.\nTACL 2026"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Language, Cognition, and Computation Lab",
-    "section": "Contact",
-    "text": "Contact\nSean Trott\nAssistant Professor, Department of Psychology\nRutgers University–Newark\nEmail: sean.trott@rutgers.edu"
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Selected Publications",
+    "section": "2025",
+    "text": "2025"
+  },
+  {
+    "objectID": "publications.html#seeing-through-words-speaking-through-pixels-deep-representational-alignment-between-vision-and-language-models",
+    "href": "publications.html#seeing-through-words-speaking-through-pixels-deep-representational-alignment-between-vision-and-language-models",
+    "title": "Selected Publications",
+    "section": "Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models",
+    "text": "Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models\nHe, Z., Trott, S., & Khosla, M.\nEMNLP 2025"
+  },
+  {
+    "objectID": "publications.html#do-prosodic-cues-convey-intent-directly-or-through-contrastive-marking-a-study-of-french-indirect-requests",
+    "href": "publications.html#do-prosodic-cues-convey-intent-directly-or-through-contrastive-marking-a-study-of-french-indirect-requests",
+    "title": "Selected Publications",
+    "section": "Do Prosodic Cues Convey Intent Directly or Through Contrastive Marking? A Study of French Indirect Requests",
+    "text": "Do Prosodic Cues Convey Intent Directly or Through Contrastive Marking? A Study of French Indirect Requests\nRuytenbeek, N. & Trott, S.\nGlossa Psycholinguistics 2025"
+  },
+  {
+    "objectID": "publications.html#words-and-worlds-both-dynamic-effects-of-distributional-and-sensorimotor-information-in-semantic-processing",
+    "href": "publications.html#words-and-worlds-both-dynamic-effects-of-distributional-and-sensorimotor-information-in-semantic-processing",
+    "title": "Selected Publications",
+    "section": "Words and Worlds Both: Dynamic Effects of Distributional and Sensorimotor Information in Semantic Processing",
+    "text": "Words and Worlds Both: Dynamic Effects of Distributional and Sensorimotor Information in Semantic Processing\nVinaya, H., Trott, S., Pecher, D., Zeelenberg, R., & Coulson, S.\nOpen Mind 2025"
+  },
+  {
+    "objectID": "publications.html#turing-jest-distributional-semantics-and-one-line-jokes",
+    "href": "publications.html#turing-jest-distributional-semantics-and-one-line-jokes",
+    "title": "Selected Publications",
+    "section": "Turing Jest: Distributional Semantics and One-Line Jokes",
+    "text": "Turing Jest: Distributional Semantics and One-Line Jokes\nTrott, S., Walker, D. E., Taylor, S. M., & Coulson, S.\nCognitive Science 2025"
+  },
+  {
+    "objectID": "publications.html#ai-augmented-predictions-llm-assistants-improve-human-forecasting-accuracy",
+    "href": "publications.html#ai-augmented-predictions-llm-assistants-improve-human-forecasting-accuracy",
+    "title": "Selected Publications",
+    "section": "AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy",
+    "text": "AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy\nSchoenegger, P., Park, P. S., Karger, E., Trott, S., & Tetlock, P. E.\nACM TiiS 2025"
+  },
+  {
+    "objectID": "publications.html#evaluating-contextualized-representations-of-spanish-ambiguous-words-a-new-lexical-resource-and-empirical-analysis",
+    "href": "publications.html#evaluating-contextualized-representations-of-spanish-ambiguous-words-a-new-lexical-resource-and-empirical-analysis",
+    "title": "Selected Publications",
+    "section": "Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis",
+    "text": "Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis\nRivière, P. D., Beatty-Martínez, A. L., & Trott, S.\nNAACL 2025"
+  },
+  {
+    "objectID": "publications.html#does-language-stabilize-quantity-representations-in-vision-transformers",
+    "href": "publications.html#does-language-stabilize-quantity-representations-in-vision-transformers",
+    "title": "Selected Publications",
+    "section": "Does Language Stabilize Quantity Representations in Vision Transformers?",
+    "text": "Does Language Stabilize Quantity Representations in Vision Transformers?\nRivière, P. D., Parkinson-Coombs, O., Jones, C., & Trott, S.\nCogSci 2025"
+  },
+  {
+    "objectID": "publications.html#toward-a-theory-of-generalizability-in-llm-mechanistic-interpretability-research",
+    "href": "publications.html#toward-a-theory-of-generalizability-in-llm-mechanistic-interpretability-research",
+    "title": "Selected Publications",
+    "section": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research",
+    "text": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research\nTrott, S.\nNeurIPS MechInterp Workshop 2025"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Selected Publications",
+    "section": "2024",
+    "text": "2024"
+  },
+  {
+    "objectID": "publications.html#do-multimodal-large-language-models-and-humans-ground-language-similarly",
+    "href": "publications.html#do-multimodal-large-language-models-and-humans-ground-language-similarly",
+    "title": "Selected Publications",
+    "section": "Do Multimodal Large Language Models and Humans Ground Language Similarly?",
+    "text": "Do Multimodal Large Language Models and Humans Ground Language Similarly?\nJones, C. R., Bergen, B., & Trott, S.\nComputational Linguistics 2024"
+  },
+  {
+    "objectID": "publications.html#comparing-humans-and-large-language-models-on-epitome",
+    "href": "publications.html#comparing-humans-and-large-language-models-on-epitome",
+    "title": "Selected Publications",
+    "section": "Comparing Humans and Large Language Models on EPITOME",
+    "text": "Comparing Humans and Large Language Models on EPITOME\nJones, C. R., Trott, S., & Bergen, B.\nTACL 2024"
+  },
+  {
+    "objectID": "publications.html#large-language-models-and-the-wisdom-of-small-crowds",
+    "href": "publications.html#large-language-models-and-the-wisdom-of-small-crowds",
+    "title": "Selected Publications",
+    "section": "Large Language Models and the Wisdom of Small Crowds",
+    "text": "Large Language Models and the Wisdom of Small Crowds\nTrott, S.\nOpen Mind 2024"
+  },
+  {
+    "objectID": "publications.html#can-large-language-models-help-augment-english-psycholinguistic-datasets",
+    "href": "publications.html#can-large-language-models-help-augment-english-psycholinguistic-datasets",
+    "title": "Selected Publications",
+    "section": "Can Large Language Models Help Augment English Psycholinguistic Datasets?",
+    "text": "Can Large Language Models Help Augment English Psycholinguistic Datasets?\nTrott, S.\nBehavior Research Methods 2024"
+  },
+  {
+    "objectID": "publications.html#multimodal-large-language-models-show-evidence-of-embodied-simulation",
+    "href": "publications.html#multimodal-large-language-models-show-evidence-of-embodied-simulation",
+    "title": "Selected Publications",
+    "section": "Multimodal Large Language Models Show Evidence of Embodied Simulation",
+    "text": "Multimodal Large Language Models Show Evidence of Embodied Simulation\nJones, C. & Trott, S.\nLREC-COLING 2024"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Selected Publications",
+    "section": "2023",
+    "text": "2023"
+  },
+  {
+    "objectID": "publications.html#word-meaning-is-both-categorical-and-continuous",
+    "href": "publications.html#word-meaning-is-both-categorical-and-continuous",
+    "title": "Selected Publications",
+    "section": "Word Meaning is Both Categorical and Continuous",
+    "text": "Word Meaning is Both Categorical and Continuous\nTrott, S. & Bergen, B.\nPsychological Review 2023"
+  },
+  {
+    "objectID": "publications.html#do-large-language-models-know-what-humans-know",
+    "href": "publications.html#do-large-language-models-know-what-humans-know",
+    "title": "Selected Publications",
+    "section": "Do Large Language Models Know What Humans Know?",
+    "text": "Do Large Language Models Know What Humans Know?\nTrott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B.\nCognitive Science 2023"
+  },
+  {
+    "objectID": "publications.html#prosody-and-speech-act-interpretation-the-case-of-french-indirect-requests",
+    "href": "publications.html#prosody-and-speech-act-interpretation-the-case-of-french-indirect-requests",
+    "title": "Selected Publications",
+    "section": "Prosody and Speech Act Interpretation: The Case of French Indirect Requests",
+    "text": "Prosody and Speech Act Interpretation: The Case of French Indirect Requests\nRuytenbeek, N., Bergen, B., & Trott, S.\nJournal of French Language Studies 2023"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Selected Publications",
+    "section": "2022",
+    "text": "2022"
+  },
+  {
+    "objectID": "publications.html#offline-dominance-and-zeugmatic-similarity-normings-of-variably-ambiguous-words-assessed-against-a-neural-language-model-bert",
+    "href": "publications.html#offline-dominance-and-zeugmatic-similarity-normings-of-variably-ambiguous-words-assessed-against-a-neural-language-model-bert",
+    "title": "Selected Publications",
+    "section": "Offline Dominance and Zeugmatic Similarity Normings of Variably Ambiguous Words Assessed Against a Neural Language Model (BERT)",
+    "text": "Offline Dominance and Zeugmatic Similarity Normings of Variably Ambiguous Words Assessed Against a Neural Language Model (BERT)\nDeLong, K., Trott, S., & Kutas, M.\nBehavior Research Methods 2022"
+  },
+  {
+    "objectID": "publications.html#spontaneous-controlled-acts-of-reference-between-friends-and-strangers",
+    "href": "publications.html#spontaneous-controlled-acts-of-reference-between-friends-and-strangers",
+    "title": "Selected Publications",
+    "section": "Spontaneous, Controlled Acts of Reference Between Friends and Strangers",
+    "text": "Spontaneous, Controlled Acts of Reference Between Friends and Strangers\nTrott, S., Bergen, B., & Wittenberg, E.\nLanguage Resources and Evaluation 2022"
+  },
+  {
+    "objectID": "publications.html#the-role-of-prosody-in-disambiguating-english-indirect-requests",
+    "href": "publications.html#the-role-of-prosody-in-disambiguating-english-indirect-requests",
+    "title": "Selected Publications",
+    "section": "The Role of Prosody in Disambiguating English Indirect Requests",
+    "text": "The Role of Prosody in Disambiguating English Indirect Requests\nTrott, S., Reed, S., Kaliblotzky, D., Ferreira, V., & Bergen, B.\nLanguage and Speech 2022"
+  },
+  {
+    "objectID": "publications.html#languages-are-efficient-but-for-whom",
+    "href": "publications.html#languages-are-efficient-but-for-whom",
+    "title": "Selected Publications",
+    "section": "Languages are Efficient, But for Whom?",
+    "text": "Languages are Efficient, But for Whom?\nTrott, S. & Bergen, B.\nCognition 2022"
+  },
+  {
+    "objectID": "publications.html#distributional-semantics-still-cant-account-for-affordances",
+    "href": "publications.html#distributional-semantics-still-cant-account-for-affordances",
+    "title": "Selected Publications",
+    "section": "Distributional Semantics Still Can’t Account for Affordances",
+    "text": "Distributional Semantics Still Can’t Account for Affordances\nJones, C. R., Chang, T. A., Coulson, S., Michaelov, J. A., Trott, S., & Bergen, B.\nCogSci 2022"
+  },
+  {
+    "objectID": "publications.html#can-a-pressure-against-homophones-explain-phonological-neighborhoods",
+    "href": "publications.html#can-a-pressure-against-homophones-explain-phonological-neighborhoods",
+    "title": "Selected Publications",
+    "section": "Can a Pressure Against Homophones Explain Phonological Neighborhoods?",
+    "text": "Can a Pressure Against Homophones Explain Phonological Neighborhoods?\nTrott, S. & Bergen, B.\nCogSci 2022"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Selected Publications",
+    "section": "2021",
+    "text": "2021"
+  },
+  {
+    "objectID": "publications.html#raw-c-relatedness-of-ambiguous-words-in-context",
+    "href": "publications.html#raw-c-relatedness-of-ambiguous-words-in-context",
+    "title": "Selected Publications",
+    "section": "RAW-C: Relatedness of Ambiguous Words in Context",
+    "text": "RAW-C: Relatedness of Ambiguous Words in Context\nTrott, S. & Bergen, B.\nACL 2021"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Selected Publications",
+    "section": "2020",
+    "text": "2020"
+  },
+  {
+    "objectID": "publications.html#reconstruing-meaning-in-nlp",
+    "href": "publications.html#reconstruing-meaning-in-nlp",
+    "title": "Selected Publications",
+    "section": "(Re)construing Meaning in NLP",
+    "text": "(Re)construing Meaning in NLP\nTrott, S., Torrent, T. T., Chang, N., & Schneider, N.\nACL 2020"
+  },
+  {
+    "objectID": "publications.html#why-do-human-languages-have-homophones",
+    "href": "publications.html#why-do-human-languages-have-homophones",
+    "title": "Selected Publications",
+    "section": "Why Do Human Languages Have Homophones?",
+    "text": "Why Do Human Languages Have Homophones?\nTrott, S. & Bergen, B.\nCognition 2020"
+  },
+  {
+    "objectID": "publications.html#when-do-comprehenders-mentalize-for-pragmatic-inference",
+    "href": "publications.html#when-do-comprehenders-mentalize-for-pragmatic-inference",
+    "title": "Selected Publications",
+    "section": "When Do Comprehenders Mentalize for Pragmatic Inference?",
+    "text": "When Do Comprehenders Mentalize for Pragmatic Inference?\nTrott, S. & Bergen, B.\nDiscourse Processes 2020"
+  },
+  {
+    "objectID": "publications.html#the-role-of-entitlement-in-formatting-preferences-across-requesters-and-recipients",
+    "href": "publications.html#the-role-of-entitlement-in-formatting-preferences-across-requesters-and-recipients",
+    "title": "Selected Publications",
+    "section": "The Role of Entitlement in Formatting Preferences Across Requesters and Recipients",
+    "text": "The Role of Entitlement in Formatting Preferences Across Requesters and Recipients\nTrott, S. & Rossano, F.\nDiscourse Processes 2020"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Selected Publications",
+    "section": "2018",
+    "text": "2018"
+  },
+  {
+    "objectID": "publications.html#individual-differences-in-mentalizing-capacity-predict-indirect-request-comprehension",
+    "href": "publications.html#individual-differences-in-mentalizing-capacity-predict-indirect-request-comprehension",
+    "title": "Selected Publications",
+    "section": "Individual Differences in Mentalizing Capacity Predict Indirect Request Comprehension",
+    "text": "Individual Differences in Mentalizing Capacity Predict Indirect Request Comprehension\nTrott, S. & Bergen, B.\nDiscourse Processes 2018"
   }
 ]

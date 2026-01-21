@@ -11,8 +11,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
-      # - text: "Publications"
-      #   href: publications.qmd
+      - text: "Publications"
+        href: publications.qmd
       - text: "People"
         href: people.qmd
       - text: "Join"

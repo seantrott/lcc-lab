@@ -123,3 +123,42 @@ a:hover {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
 }
+
+.pub-entry {
+  border-left: 3px solid #2c5282;
+  padding-left: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.pub-entry h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.25rem 0;
+  font-weight: 600;
+}
+
+.pub-entry h2 a {
+  color: #1a365d;
+}
+
+.pub-entry p {
+  margin: 0.25rem 0;
+  color: #4a5568;
+}
+
+.pub-entry p:first-of-type {
+  font-weight: 500;
+}
+
+.pub-entry p em {
+  color: #718096;
+}
+
+.venue {
+  display: inline-block;
+  border: 1px solid #cbd5e0;
+  border-radius: 4px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.85rem;
+  color: #4a5568;
+  margin-right: 0.5rem;
+}
