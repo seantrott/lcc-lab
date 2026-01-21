@@ -6,6 +6,8 @@ The Language, Cognition, and Computation (LCC) Lab investigates research questio
 
 A (non-exhaustive) sample of ongoing research programs is listed below. 
 
+**Research areas:** [Mental state reasoning](#mental-state-reasoning-in-humans-and-language-models) · [Lexical ambiguity](#representation-and-processing-of-lexical-ambiguity) · [Epistemology](#epistemological-foundations-of-llm-ology) · [Embodiment](#embodiment-and-conceptual-knowledge) · [Calibration and trust](#calibration-and-trust)
+
 
 ::: {.research-section}
 ::: {.section-header}
@@ -98,5 +100,3 @@ AI tools like LLMs display seemingly remarkable abilities---but also, in some ca
 :::
 
 
-
-:::
