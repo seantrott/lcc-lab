@@ -7,6 +7,14 @@ A representative list of publications (see the [research page](research.qmd) for
 ## 2026
 
 ::: {.pub-entry}
+## [Language Statistics and False Belief Reasoning: Evidence from 41 Open-Weight LMs](https://arxiv.org/abs/2602.16085)
+
+Trott, S., Taylor, S., Jones, C., Michaelov, J., & Rivière, P.
+
+[ACL]{.venue} 2026
+:::
+
+::: {.pub-entry}
 ## [Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity](https://arxiv.org/abs/2511.21974)
 
 Rivière, P. & Trott, S.
