@@ -61,6 +61,8 @@ The use of LLMs in Cognitive Science research is relatively novel, as is the sci
 
 **Selected papers:**
 
+
+- Trott, S. & Parkinson-Coombs, O. (2026). Graduating the Benchmark Scale: Lessons from Thermometry. In ACL 2026 Workshop on Evaluating Evaluations (EvalEval). [[Link]](https://openreview.net/forum?id=EJSwPvVTpm)
 - Trott, S. Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research. In Mechanistic Interpretability Workshop at NeurIPS 2025. [[Link]](https://arxiv.org/abs/2509.22831) [[Code and data]](https://github.com/seantrott/mechinterp_generalizability) 
 - Trott, S. (2024). Large language models and the wisdom of small crowds. Open Mind, 8, 723-738. [[Link]](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00144/121179) [[Code and data]](https://github.com/seantrott/llm_clt/)
 - Trott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? *Cognitive Science.* [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13309)
