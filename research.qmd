@@ -20,6 +20,7 @@ Humans regularly reason about the belief states of others. But how do we acquire
 
 **Selected papers:**
 
+- Trott, S., Taylor, S., Jones, C., Michaelov, J. A., & Rivière, P. D. (2026). Language statistics and false belief reasoning: Evidence from 41 open-weight lms. *ACL*. [[Link]](https://arxiv.org/abs/2602.16085)
 - Trott, S., Jones, C., Chang, T., Michaelov, J., & Bergen, B. (2023). Do Large Language Models know what humans know? *Cognitive Science.* [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13309)
 - Jones, C. R., Trott, S., & Bergen, B. (2024). Comparing Humans and Large Language Models on EPITOME. *Transactions of the Association for Computational Linguistics, 12, 803-819.* [[Link]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00674/122721)
 
